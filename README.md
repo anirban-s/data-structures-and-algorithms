@@ -1,11 +1,13 @@
 # Implementation of Data Structures and Algorithms with C#
 ### Data Structures - 
   1. Array
-  2. Graph
-  3. Hashtable
-  4. Linked List
-  5. Stack and Queue
-  6. Tree
+  2. Hashtable
+  3. Linked List
+  4. Stack and Queue
+  5. Tree
+  6. Graph
+  
+  
 ### Algorithms
   1. Dynamic Programming
   2. Recursion
