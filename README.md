@@ -13,5 +13,5 @@
   Recursion
   Sorting
   Traversals
-    * BFS
-    * DFS
+      * BFS
+      * DFS
