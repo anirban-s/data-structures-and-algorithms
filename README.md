@@ -9,9 +9,9 @@
   
   
 ### Algorithms
-  Dynamic Programming
-  Recursion
-  Sorting
-  Traversals
+    Dynamic Programming
+    Recursion
+    Sorting
+    Traversals
       * BFS
       * DFS
