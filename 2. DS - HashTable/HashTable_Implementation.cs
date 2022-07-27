@@ -69,7 +69,8 @@ class MyNode
             {
                 if (this.data[i] != null)
                 {
-                    for (int j = 0; j < length; j++)
+                    // for (int j = 0; j < length; j++) // length is 50 & Out of Index Error
+                    for (int j = 0; j < this.data[i].Count; j++) // check collisions
                     {
                         result.Add(this.data[i][j].key);
                     }
